@@ -1,0 +1,465 @@
+player_id,name,best_rank,country_id
+1,Novak Djokovic,1,1
+2,Carlos Alcaraz Garfia,1,2
+3,Daniil Medvedev,1,3
+4,Jannik Sinner,4,4
+5,Andrey Rublev,5,3
+6,Stefanos Tsitsipas,3,5
+7,Alexander Zverev,2,6
+8,Holger Vitus Nodskov Rune,4,7
+9,Hubert Hurkacz,9,8
+10,Taylor Harry Fritz,5,9
+11,Casper Ruud,2,10
+12,Alex De Minaur,11,11
+13,Tommy Paul,12,9
+14,Grigor Dimitrov,3,12
+15,Karen Khachanov,8,3
+16,Frances Tiafoe,10,9
+17,Ben Shelton,15,9
+18,Cameron Norrie,8,13
+19,Nicolas Jarry,19,14
+20,Ugo Humbert,20,15
+21,Francisco Cerundolo,19,16
+22,Adrian Mannarino,22,15
+23,Tallon Griekspoor,21,17
+24,Sebastian Korda,23,9
+25,Jan Lennard Struff,21,6
+26,Alejandro Davidovich Fokina,21,2
+27,Lorenzo Musetti,15,4
+28,Sebastian Baez,27,16
+29,Felix Auger Aliassime,6,18
+30,Tomas Martin Etcheverry,30,16
+31,Jiri Lehecka,29,19
+32,Alexander Bublik,25,20
+33,Laslo Djere,27,1
+34,Christopher Eubanks,29,9
+35,Aslan Karatsev,14,3
+36,Arthur Fils,36,15
+37,Borna Coric,12,21
+38,Daniel Evans,21,13
+39,Roman Safiullin,39,3
+40,Alexei Popyrin,39,11
+41,Mackenzie Mcdonald,37,9
+42,Andy Murray,1,13
+43,Sebastian Ofner,43,22
+44,Matteo Arnaldi,41,4
+45,Max Purcell,40,11
+46,Lorenzo Sonego,21,4
+47,Yoshihito Nishioka,24,23
+48,Alexander Shevchenko,48,3
+49,Stan Wawrinka,3,24
+50,Botic Van De Zandschulp,22,17
+51,Yannick Hanfmann,45,6
+52,Dusan Lajovic,23,1
+53,Jeffrey John Wolf,39,9
+54,Miomir Kecmanovic,27,1
+55,Jordan Thompson,43,11
+56,Daniel Altmaier,47,6
+57,Roberto Bautista Agut,9,2
+58,Zhizhen Zhang,52,25
+59,Marton Fucsovics,31,26
+60,Marcos Giron,49,9
+61,Jack Draper,38,13
+62,Aleksandar Vukic,48,11
+63,Roberto Carballes Baena,49,2
+64,Fabian Marozsan,61,26
+65,Thanasi Kokkinakis,65,11
+66,Nuno Borges,63,27
+67,Pavel Kotov,66,3
+68,Christopher Oconnell,53,11
+69,Emil Ruusuvuori,37,28
+70,Pedro Cachin,48,16
+71,Rinky Hijikata,70,11
+72,Borna Gojo,72,21
+73,Benjamin Bonzi,42,15
+74,Gael Monfils,6,15
+75,Taro Daniel,64,23
+76,Richard Gasquet,7,15
+77,Dominik Koepfer,50,6
+78,Tomas Machac,64,19
+79,Thiago Seyboth Wild,74,29
+80,Bernabe Zapata Miralles,37,2
+81,Alexandre Muller,76,15
+82,Christian Garin,17,14
+83,Juan Pablo Varillas Patino Samudio,60,30
+84,Gregoire Barrere,49,15
+85,Alejandro Tabilo,64,14
+86,Jaume Munar,52,2
+87,Constant Lestienne,48,15
+88,Federico Coria,49,16
+89,Albert Ramos,17,2
+90,Luca Van Assche,63,15
+91,Maximilian Marterer,45,6
+92,Matteo Berrettini,6,4
+93,Daniel Elahi Galan Riveros,56,31
+94,Dominic Stephan Stricker,88,24
+95,Facundo Diaz Acosta,93,16
+96,Arthur Rinderknech,42,15
+97,Alex Michelsen,94,9
+98,Dominic Thiem,3,22
+99,Yosuke Watanuki,72,23
+100,Quentin Halys,61,15
+101,Flavio Cobolli,95,4
+102,Jason Kubler,63,11
+103,Marcelo Tomas Barrios Vera,103,14
+104,Hugo Gaston,58,15
+105,Michael Mmoh,81,9
+106,Pedro Martinez Portero,40,2
+107,Fabio Fognini,9,4
+108,Liam Broady,93,13
+109,Denis Shapovalov,10,18
+110,Aleksandar Kovacevic,101,9
+111,David Goffin,7,32
+112,Hugo Dellien,64,33
+113,Hamad Medjedovic,106,1
+114,Diego Sebastian Schwartzman,8,16
+115,Jurij Rodionov,100,22
+116,James Duckworth,46,11
+117,Benoit Paire,18,15
+118,Luca Nardi,115,4
+119,Alex Molcan,38,34
+120,Juan Manuel Cerundolo,79,16
+121,Yibing Wu,54,25
+122,Thiago Monteiro,61,29
+123,Thiago Agustin Tirante,117,16
+124,Francisco Comesana,120,16
+125,Mariano Navone,124,16
+126,Maxime Cressy,31,9
+127,Zsombor Piros,112,26
+128,Luciano Darderi,128,4
+129,Zizou Bergs,112,32
+130,Arthur Cazaux,119,15
+131,Radu Albot,39,35
+132,Vit Kopriva,118,19
+133,Corentin Moutet,51,15
+134,Brandon Nakashima,43,9
+135,Giulio Zeppieri,120,4
+136,Mikael Ymer,50,36
+137,Shintaro Mochizuki,131,23
+138,Sumit Nagal,122,37
+139,Gabriel Diallo,133,18
+140,Lloyd George Muirhead Harris,31,38
+141,Camilo Ugo Carabelli,96,16
+142,Zachary Svajda,142,9
+143,Duje Ajdukovic,143,21
+144,Terence Atmane,137,15
+145,Joris De Loore,144,32
+146,Filip Misolic,126,22
+147,Emilio Nava,145,9
+148,Felipe Meligeni Rodrigues Alves,137,29
+149,Sho Shimabukuro,146,23
+150,Marc Polmans,116,11
+151,Benjamin Hassan,149,6
+152,Nicolas Moreno De Alboran,131,2
+153,Jesper De Jong,141,17
+154,Damir Dzumhur,23,39
+155,Elias Ymer,105,36
+156,Andrea Pellegrino,136,4
+157,Andrea Vavassori,145,4
+158,Pablo Llamas Ruiz,135,2
+159,Antoine Escoffier,139,15
+160,Jan Choinski,126,6
+161,Titouan Droguet,157,15
+162,Gijs Brouwer,116,17
+163,Denis Kudla,53,9
+164,Dalibor Svrcina,162,19
+165,Dennis Novak,85,22
+166,Harold Mayot,166,15
+167,Jakub Mensik,156,19
+168,Otto Virtanen,109,28
+169,Dino Prizmic,155,40
+170,Vitaliy Sachko,165,41
+171,Lukas Klein,133,34
+172,Bu Yunchaokete,164,25
+173,John Isner,8,9
+174,Genaro Alberto Olivieri,140,16
+175,Zdenek Kolar,111,19
+176,Hugo Grenier,95,15
+177,Adam Walton,174,11
+178,Mattia Bellucci,142,4
+179,Ryan Peniston,123,13
+180,Ivan Gakhov,161,3
+181,Matteo Gigante,169,4
+182,Ilya Ivashka,40,42
+183,Juncheng Shang,165,25
+184,Roman Andres Burruchaga,174,16
+185,Raul Brancaccio,121,4
+186,Kimmer Coppejans,97,32
+187,Daniel Rincon,181,2
+188,Beibit Zhukayev,188,20
+189,Calvin Hemery,116,15
+190,Denis Yevseyev,190,20
+191,Patrick Kypson,191,9
+192,Guido Pella,20,16
+193,Stefano Travaglia,60,4
+194,Rudolf Molleker,146,6
+195,Marc Andrea Huesler,47,24
+196,Abedallah Shelbayh,185,43
+197,Soon Woo Kwon,52,44
+198,Federico Gaio,124,4
+199,Marco Cecchinato,16,4
+200,Billy Harris,200,13
+201,Rafael Nadal,1,2
+202,Pablo Carreno Busta,10,2
+203,Marin Cilic,3,21
+204,Nick Kyrgios,13,11
+205,Reilly Opelka,17,9
+206,Jenson Brooksby,33,9
+207,Filip Krajinovic,26,1
+208,Oscar Otte,36,6
+209,Kamil Majchrzak,75,8
+210,Joao Sousa,28,27
+211,Facundo Bagnis,55,16
+212,Nikoloz Basilashvili,16,45
+213,Vasek Pospisil,25,18
+214,Emilio Gomez,90,46
+215,Jiri Vesely,35,19
+216,Steve Johnson,21,9
+217,Tim Van Rijthoven,101,17
+218,Norbert Gombos,80,34
+219,Chun Hsin Tseng,83,47
+220,Francesco Passaro,108,4
+221,Pablo Andujar,32,2
+222,Fernando Verdasco,7,2
+223,Federico Delbonis,33,16
+224,Jack Sock,8,9
+225,Jelle Sels,127,17
+226,Jozef Kovalik,80,34
+227,Franco Agamenone,108,16
+228,Timofey Skatov,125,3
+229,Gilles Simon,6,15
+230,Manuel Guinard,134,15
+231,John Millman,33,11
+232,Leandro Riedi,126,24
+233,Carlos Taberner,85,2
+234,Ricardas Berankis,50,48
+235,Alexander Ritschard,163,24
+236,Geoffrey Blancaneaux,134,15
+237,Henri Laaksonen,84,24
+238,Enzo Couacaud,153,15
+239,Facundo Mena,127,16
+240,Juan Pablo Ficovich,125,16
+241,Renzo Olivo,78,16
+242,Antoine Bellier,168,24
+243,Tung Lin Wu,158,47
+244,Oleksii Krutykh,162,41
+245,Riccardo Bonadio,164,4
+246,Mikhail Kukushkin,39,20
+247,Adrian Andreev,189,12
+248,Santiago Fa Rodriguez Taverna,157,16
+249,Nicolas Kicker,78,16
+250,Dimitar Kuzmanov,158,12
+251,Kaichi Uchida,147,23
+252,Stefan Kozlov,103,9
+253,Francesco Maestrelli,167,4
+254,Roger Federer,1,24
+255,Kei Nishikori,4,23
+256,Gianluca Mager,62,4
+257,Milos Raonic,3,18
+258,Kevin Anderson,5,38
+259,Peter Gojowczyk,39,6
+260,Tennys Sandgren,41,9
+261,Pablo Cuevas,19,49
+262,Andreas Seppi,18,4
+263,Feliciano Lopez,12,2
+264,Jeremy Chardy,25,15
+265,Sam Querrey,11,9
+266,Aljaz Bedene,43,50
+267,Pierre Hugues Herbert,36,15
+268,Egor Gerasimov,65,42
+269,Philipp Kohlschreiber,16,6
+270,Andrej Martin,93,34
+271,Kyle Edmund,14,13
+272,Attila Balazs,76,26
+273,Juan Ignacio Londero,50,16
+274,Alex Bolt,125,11
+275,Nikola Milojevic,125,1
+276,Cem Ilkel,144,51
+277,Mats Moraing,115,6
+278,Lucas Pouille,10,15
+279,Salvatore Caruso,76,4
+280,Yuichi Sugita,36,23
+281,Altug Celikbilek,154,51
+282,Illya Marchenko,49,41
+283,Ernesto Escobedo,67,9
+284,Bjorn Fratangelo,99,9
+285,Kacper Zuk,162,8
+286,Mitchell Krueger,135,9
+287,Evgeny Donskoy,65,3
+288,Pedro Sousa,99,27
+289,Mario Vilella Martinez,158,2
+290,Jason Jung,114,47
+291,Dmitry Popko,162,20
+292,Blaz Rola,78,50
+293,Daniel Masur,176,6
+294,Ramkumar Ramanathan,111,37
+295,Alessandro Giannessi,84,4
+296,Lukas Lacko,44,34
+297,Ernests Gulbis,10,52
+298,Filip Horansky,161,34
+299,Gian Marco Moroni,159,4
+300,Marco Trungelliti,112,16
+301,Antonie Hoang,98,15
+302,Jo Wilfried Tsonga,5,15
+303,Yasutaka Uchiyama,78,23
+304,Cedrik Marcel Stebe,71,6
+305,Prajnesh Gunneswaran,75,37
+306,Go Soeda,47,23
+307,Leonardo Mayer,21,16
+308,Danilo Petrovic,137,1
+309,Paolo Lorenzi,33,4
+310,Ivo Karlovic,14,21
+311,Bradley Klahn,63,9
+312,Martin Klizan,24,34
+313,Lorenzo Giustino,127,4
+314,Mohamed Safwat,130,53
+315,Juan Martin Del Potro,3,16
+316,Hyeon Chung,19,44
+317,Guido Andreozzi,70,16
+318,Thomas Fabbiano,70,4
+319,Yannick Maden,96,6
+320,Marcel Granollers,19,2
+321,Joao Domingues,150,27
+322,Steven Diez,134,18
+323,Roberto Marcora,150,4
+324,Frederico Ferreira Silva,168,27
+325,Denis Istomin,33,54
+326,Tatsuma Ito,60,23
+327,Jay Clarke,153,13
+328,Mikael Torpegaard,166,7
+329,Joao Lucas Magalhaes Hueb De Menezes,172,29
+330,Robin Haase,33,17
+331,Lukas Rosol,26,19
+332,Brayden Schnur,92,18
+333,Dudi Sela,29,55
+334,Guillermo Garcia Lopez,23,2
+335,Sergiy Stakhovsky,31,41
+336,Marius Copil,56,56
+337,Steve Darcis,38,32
+338,Viktor Troicki,12,1
+339,Andrew Harris,159,11
+340,Darian King,106,57
+341,Marcos Baghdatis,8,58
+342,Enrique Lopez Perez,154,2
+343,Peter Polansky,110,18
+344,Bernard Tomic,17,11
+345,Zhe Li,193,25
+346,Nicolas Mahut,37,15
+347,Andrea Collarini,177,16
+348,Malek Jaziri,42,59
+349,Matthew Ebden,39,11
+350,Ryan Harrison,40,9
+351,Mischa Zverev,25,6
+352,Tomas Berdych,4,19
+353,Mirza Basic,74,39
+354,Jared Donaldson,48,9
+355,Ruben Bemelmans,84,32
+356,David Ferrer,3,2
+357,Adrian Menendez Maceiras,111,2
+358,Matthias Bachinger,85,6
+359,Noah Rubin,125,9
+360,Yuki Bhambri,83,37
+361,Gilles Muller,21,60
+362,Carlos Berlocq,37,16
+363,Simone Bolelli,36,4
+364,Jurgen Zopp,71,61
+365,Gianluigi Quinzi,142,4
+366,Rogerio Dutra Silva,63,29
+367,Tim Smyczek,68,9
+368,Filippo Baldi,144,4
+369,Luca Vanni,100,4
+370,Pedja Krstin,159,1
+371,Horacio Zeballos,39,16
+372,Alexey Vatutin,136,3
+373,Andrea Arnaboldi,153,4
+374,Aleksandr Nedovyesov,72,20
+375,Roberto Quiroz,172,46
+376,Daniel Brands,51,6
+377,James Ward,89,13
+378,Daniel Gimeno Traver,48,2
+379,Hiroki Moriya,143,23
+380,John Patrick Smith,108,11
+381,Stephane Robert,50,15
+382,Maxime Janvier,170,15
+383,Kenny De Schepper,62,15
+384,Stefano Napolitano,152,4
+385,Adam Pavlasek,72,19
+386,Alexandr Dolgopolov,13,41
+387,Julien Benneteau,25,15
+388,Donald Young,38,9
+389,Florian Mayer,18,6
+390,Yen Hsun Lu,33,47
+391,Victor Estrella,43,62
+392,Mikhail Youzhny,8,3
+393,Blaz Kavcic,68,50
+394,Gerald Melzer,68,22
+395,Janko Tipsarevic,8,1
+396,Andrey Kuznetsov,39,3
+397,Thomaz Bellucci,21,29
+398,Gastao Elias,57,27
+399,Jerzy Janowicz,14,8
+400,Dustin Brown,64,6
+401,Uladzimir Ignatik,129,42
+402,Akira Santillan,144,11
+403,Nicolas Almagro,9,2
+404,Gleb Sakharov,153,15
+405,Mathias Bourgue,140,15
+406,Tommy Robredo,5,2
+407,Arthur De Greef,113,32
+408,Aldin Setkic,165,39
+409,Viktor Galovic,173,4
+410,Filip Peliwo,161,18
+411,Jurgen Melzer,8,22
+412,Vincent Millot,135,15
+413,Marcelo Arevalo,139,63
+414,Ze Zhang,148,25
+415,Goncalo Oliveira,194,27
+416,Duck Hee Lee,130,44
+417,Ricardo Ojeda Lara,171,2
+418,Teymuraz Gabashvili,43,3
+419,Juan Monaco,10,16
+420,Samuel Groth,53,11
+421,Andreas Haider Maurer,47,22
+422,Santiago Giraldo,28,31
+423,Inigo Cervantes Huegun,56,2
+424,Daniel Munoz De La Nava,68,2
+425,Ivan Dodig,29,21
+426,Rajeev Ram,56,9
+427,Paul Henri Mathieu,12,15
+428,Benjamin Becker,35,6
+429,Thiemo De Bakker,40,17
+430,Austin Krajicek,94,9
+431,Marsel Ilhan,77,51
+432,Michael Berrer,42,6
+433,Albert Montanes,22,2
+434,Alejandro Falla,50,31
+435,Edouard Roger Vasselin,35,15
+436,Facundo Arguello,104,16
+437,Konstantin Kravchuk,78,3
+438,Alejandro Gonzalez,70,31
+439,Joao Souza,69,29
+440,Igor Sijsling,52,17
+441,Maximo Gonzalez,58,16
+442,Andre Ghem,118,29
+443,Dennis Novikov,119,9
+444,Jarkko Nieminen,13,28
+445,Farrukh Dustov,98,54
+446,Alexander Kudryavtsev,117,3
+447,David Guez,116,15
+448,Adrian Ungur,79,56
+449,Saketh Myneni,137,37
+450,Grega Zemlja,43,50
+451,Guilherme Clezar,153,29
+452,Somdev Devvarman,62,37
+453,Matteo Donati,159,4
+454,Franco Skugor,145,21
+455,Brydan Klein,169,11
+456,Luke Saville,152,11
+457,Hans Podlipnik Castillo,157,14
+458,Jordi Samper Montana,179,2
+459,Filippo Volandri,25,4
+460,Michal Przysiezny,57,8
+461,Tristan Lamasine,181,15
+462,Radek Stepanek,8,19
+463,Alexander Sarkissian,157,9
+464,Yannick Mertens,179,32
