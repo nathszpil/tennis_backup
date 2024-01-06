@@ -4,7 +4,7 @@ import csv
 # MySQL Connection Information
 host = 'localhost'
 user = 'root'
-password = 'nathszpil97'
+password = ''
 database = 'tennis'
 
 # Connect to MySQL
