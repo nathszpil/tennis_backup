@@ -4,9 +4,9 @@ import csv
 
 # MySQL Connection Information
 host = 'localhost'
-user = 'root'
-password = 'nathszpil97'
-database = 'tennis2'
+user = 'zoe_nathan'
+password = 'zoe_nathan'
+database = 'tennis'
 
 # Directory containing CSV files
 csv_directory = 'csv_files'
